@@ -1,0 +1,38 @@
+.list {
+    list-style: none;
+      }
+
+.select {
+  background-color: rgb(31, 117, 230);
+  color: ghostwhite;    
+}
+
+.header {
+  border-style: outset;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 2rem;
+  margin-top: 0rem;
+  background-color: rgba(128, 128, 128, 0.527);
+  color: ivory;
+  text-shadow: rgba(22, 22, 22, 0.733) 5px 2px 2px;
+}
+
+.body {
+  padding-top: 0rem;
+  padding-bottom: 3rem;
+  text-align: center;
+  color: ivory;
+  background-color: rgba(26, 24, 24, 0.87);
+  border-style: outset;
+}
+.cartlist {
+   color: rgba(26, 24, 24, 0.87);
+   border-style: outset;
+}
+
+.footer {
+   padding-top: 1rem;
+   font-size: 11px;
+}
+
